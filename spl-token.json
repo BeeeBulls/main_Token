@@ -1,6 +1,12 @@
 {
     "name": "Bee Bull",
     "symbol": "BB",
-    "description": "Ride the Bull, Own the Future",
-    "image": "https://raw.githubusercontent.com/BeeeBulls/officaial_imag/refs/heads/main/tokenLogo.png"
-}
+    "description": "Ride the Bull Own the Future",
+    "image": "https://raw.githubusercontent.com/BeeeBulls/officaial_imag/refs/heads/main/tokenLogo.png",
+    "attributes": [
+      {
+        "trait_type": "Item",
+        "value": "Compressed Coil"
+      }
+    ]
+  }
